@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/USER/Desktop/proje/deepika/libs/android-async-http-1.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/USER/Desktop/proje/deepika/libs/android-support-v4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/USER/Desktop/proje/deepika/libs/jsoup-1.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/proje/deepika/libs/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/proje/deepika/libs/additionnal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/proje/deepika/libs/mail.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

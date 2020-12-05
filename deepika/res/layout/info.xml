@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".Mainpage" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/deepika" />
+
+    <TextView
+        android:id="@+id/texcredit"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textcustomer"
+        android:layout_below="@+id/textcustomer"
+        android:layout_marginTop="20dp"
+        android:hint="MODEL"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="DEVICE AND NETWORK INFORMATION"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textdailyturnover"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/texttransaction"
+        android:layout_below="@+id/texttransaction"
+        android:layout_marginTop="20dp"
+        android:hint="BUILD NUMBER"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/aldi_talk"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textdailyturnover"
+        android:layout_below="@+id/textdailyturnover"
+        android:layout_marginTop="20dp"
+        android:hint="MAC ADDRESS"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/texttransaction"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/texcredit"
+        android:layout_below="@+id/texcredit"
+        android:layout_marginTop="20dp"
+        android:hint="SERIAL NUMBER"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/aldi_talk"
+        android:layout_below="@+id/aldi_talk"
+        android:layout_marginTop="20dp"
+        android:hint="MOBILE IP"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView6"
+        android:layout_below="@+id/textView6"
+        android:layout_marginTop="20dp"
+        android:hint="WIFI IP"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textbankbalance"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView7"
+        android:layout_below="@+id/textView7"
+        android:layout_marginTop="20dp"
+        android:hint="PUBLIC IP"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textbankbalance"
+        android:layout_below="@+id/textbankbalance"
+        android:layout_marginTop="20dp"
+        android:hint="IMEI NUMBER"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textsimserialnumber"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView8"
+        android:layout_below="@+id/textView8"
+        android:layout_marginTop="20dp"
+        android:hint="SIM SERIAL NUMBER"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textoperatorname"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textsimserialnumber"
+        android:layout_below="@+id/textsimserialnumber"
+        android:layout_marginTop="20dp"
+        android:hint="OPERATOR NAME"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textcustomer"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView5"
+        android:layout_below="@+id/textView5"
+        android:layout_marginTop="24dp"
+        android:hint="MANUFACTURER"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView06"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textdailyturnover"
+        android:layout_alignBottom="@+id/textdailyturnover"
+        android:layout_alignLeft="@+id/textView05"
+        android:hint="UNKNOWN"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView07"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView6"
+        android:layout_alignBottom="@+id/textView6"
+        android:layout_alignLeft="@+id/textView06"
+        android:hint=":     MOBILE DEACTIVATED"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView08"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView7"
+        android:layout_alignBottom="@+id/textView7"
+        android:layout_alignLeft="@+id/textView07"
+        android:hint=":     WIFI DEACTIVATED"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView09"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textbankbalance"
+        android:layout_alignBottom="@+id/textbankbalance"
+        android:layout_alignLeft="@+id/textView08"
+        android:hint="UNKNOWN"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView010"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView8"
+        android:layout_alignBottom="@+id/textView8"
+        android:layout_alignLeft="@+id/textView09"
+        android:hint="UNKNOWN"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView011"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textsimserialnumber"
+        android:layout_alignBottom="@+id/textsimserialnumber"
+        android:layout_alignLeft="@+id/textView010"
+        android:hint="UNKNOWN"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView01"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textcustomer"
+        android:layout_alignBottom="@+id/textcustomer"
+        android:layout_alignRight="@+id/textView5"
+        android:hint="UNKNOWN"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView02"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/texcredit"
+        android:layout_alignBottom="@+id/texcredit"
+        android:layout_alignLeft="@+id/textView01"
+        android:hint="UNKNOWN"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView05"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/texttransaction"
+        android:layout_alignBottom="@+id/texttransaction"
+        android:layout_alignLeft="@+id/textView02"
+        android:hint="UNKNOWN"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView012"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textoperatorname"
+        android:layout_alignBottom="@+id/textoperatorname"
+        android:layout_alignLeft="@+id/textView011"
+        android:hint="UNKNOWN"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView03"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/aldi_talk"
+        android:layout_alignBottom="@+id/aldi_talk"
+        android:layout_alignLeft="@+id/textView06"
+        android:layout_centerVertical="true"
+        android:hint="UNKNOWN"
+        android:textColor="#0381CD"
+        android:textColorHint="#0381CD"
+        android:textSize="10dp" />
+
+</RelativeLayout>

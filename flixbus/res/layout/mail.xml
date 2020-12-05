@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/edittext_recipient_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="flixbuscontact@gmail.com"
+        android:textColor="#ffffff"
+        android:textColorHint="#ffffff"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/object"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="New User Registration Request"
+        android:textColor="#ffffff"
+        android:textColorHint="#ffffff"
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Your Fullname"
+        android:inputType="textPersonName"
+        android:textColor="#73d700"
+        android:textColorHint="#73d700"
+        android:textSize="15sp" />
+
+    
+
+    <EditText
+        android:id="@+id/mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Your Mail Address"
+        android:inputType="textEmailAddress"
+        android:textColor="#73d700"
+        android:textColorHint="#73d700"
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/telephone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Your Telephone"
+        android:inputType="phone"
+        android:textColor="#73d700"
+        android:textColorHint="#73d700"
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:hint="Your Address"
+        android:inputType="textPostalAddress"
+        android:textColor="#73d700"
+        android:textColorHint="#73d700"
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/notes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.10"
+        android:ems="10"
+        android:gravity="start"
+        android:hint="Your Notes"
+        android:textColor="#73d700"
+        android:textColorHint="#73d700"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/btn_send_mail"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="60dp"
+        android:background="#73d700"
+        android:text="Send Mail"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Serial Number"
+        android:textColor="#73d700"
+        android:textColorHint="#73d700" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MAC Address"
+        android:textColor="#73d700"
+        android:textColorHint="#73d700" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Public IP"
+        android:textColor="#73d700"
+        android:textColorHint="#73d700" />
+
+</LinearLayout>

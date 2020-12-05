@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Company>
+
+    <id_list>
+
+        <id>
+1
+        </id>
+
+        <comp>
+ALDI TALK
+        </comp>
+
+        <icon>
+aldi_talk
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+2
+        </id>
+
+        <comp>
+AMAZON
+        </comp>
+
+        <icon>
+amazon
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+3
+        </id>
+
+        <comp>
+AY YILDIZ
+        </comp>
+
+        <icon>
+ay_yildiz
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+4
+        </id>
+
+        <comp>
+BILD MOBIL
+        </comp>
+
+        <icon>
+bild_mobil
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+5
+        </id>
+
+        <comp>
+BLAU.DE
+        </comp>
+
+        <icon>
+blau_de
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+6
+        </id>
+
+        <comp>
+BLAUWORLD
+        </comp>
+
+        <icon>
+blauworld
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+7
+        </id>
+
+        <comp>
+CONGSTAR
+        </comp>
+
+        <icon>
+congstar
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+8
+        </id>
+
+        <comp>
+DAZN
+        </comp>
+
+        <icon>
+dazn
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+9
+        </id>
+
+        <comp>
+E-PLUS
+        </comp>
+
+        <icon>
+e_plus
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+10
+        </id>
+
+        <comp>
+FLIXBUS
+        </comp>
+
+        <icon>
+flixbus
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+11
+        </id>
+
+        <comp>
+FONIC
+        </comp>
+
+        <icon>
+fonic
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+12
+        </id>
+
+        <comp>
+GOOGLE PLAY
+        </comp>
+
+        <icon>
+google_play
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+13
+        </id>
+
+        <comp>
+GT MOBILE
+        </comp>
+
+        <icon>
+gt_mobile
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+14
+        </id>
+
+        <comp>
+INTERNET O2
+        </comp>
+
+        <icon>
+internet_o2
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+15
+        </id>
+
+        <comp>
+ITUNES
+        </comp>
+
+        <icon>
+itunes
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+16
+        </id>
+
+        <comp>
+KLARMOBIL.DE
+        </comp>
+
+        <icon>
+klarmobile_de
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+17
+        </id>
+
+        <comp>
+LEBARAMOBILE
+        </comp>
+
+        <icon>
+lebaramobile
+        </icon>
+    </id_list>
+    
+        <id_list>
+
+        <id>
+17.01
+
+        </id>
+
+        <comp>
+LIFECELL
+
+        </comp>
+
+        <icon>
+life_cell
+
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+18
+        </id>
+
+        <comp>
+LYCA MOBILE
+        </comp>
+
+        <icon>
+lyca_mobile
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+19
+        </id>
+
+        <comp>
+MOBI
+        </comp>
+
+        <icon>
+mobi
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+20
+        </id>
+
+        <comp>
+NETFLIX
+        </comp>
+
+        <icon>
+netflix
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+21
+        </id>
+
+        <comp>
+NINTENDO
+        </comp>
+
+        <icon>
+nintendo
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+22
+        </id>
+
+        <comp>
+O2
+        </comp>
+
+        <icon>
+o2
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+23
+        </id>
+
+        <comp>
+ORTEL
+        </comp>
+
+        <icon>
+ortel
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+24
+        </id>
+
+        <comp>
+OTELO
+        </comp>
+
+        <icon>
+otelo
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+25
+        </id>
+
+        <comp>
+PAYSAFECARD
+        </comp>
+
+        <icon>
+paysafecard
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+26
+        </id>
+
+        <comp>
+PLAYSTATION
+        </comp>
+
+        <icon>
+playstation
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+27
+        </id>
+
+        <comp>
+SIMYO
+        </comp>
+
+        <icon>
+simyo
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+28
+        </id>
+
+        <comp>
+SPOTIFY
+        </comp>
+
+        <icon>
+spotify
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+29
+        </id>
+
+        <comp>
+STEAM
+        </comp>
+
+        <icon>
+steam
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+30
+        </id>
+
+        <comp>
+T-MOBILE
+        </comp>
+
+        <icon>
+t_mobile
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+31
+        </id>
+
+        <comp>
+TURKCELL
+        </comp>
+
+        <icon>
+turkcell
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+32
+        </id>
+
+        <comp>
+TURK TELEKOM
+        </comp>
+
+        <icon>
+turk_telekom
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+33
+        </id>
+
+        <comp>
+VODAFONE
+        </comp>
+
+        <icon>
+vodafone
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+34
+        </id>
+
+        <comp>
+X-BOX
+        </comp>
+
+        <icon>
+x_box
+        </icon>
+    </id_list>
+
+    <id_list>
+
+        <id>
+35
+        </id>
+
+        <comp>
+ZALANDO
+        </comp>
+
+        <icon>
+zalando
+        </icon>
+    </id_list>
+
+</Company>
